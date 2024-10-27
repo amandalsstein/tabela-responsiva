@@ -1,2 +1,2 @@
 # tabela-responsiva
- Exercício tabela responsiva - Curso em Vídeo
+ Exercício tabela responsiva
